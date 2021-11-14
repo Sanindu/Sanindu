@@ -1,11 +1,11 @@
 ### Hola 👋  I'm  Sanindu  :wink:
 
 
---Undergraduate of University of Moratuwa
---Technophile
---Volunteer
---Photographer
-:confused: + :coffee: = :smiley:
+>>Undergraduate of University of Moratuwa  
+>>Technophile
+>>Volunteer
+>>Photographer
+>>  :confused: + :coffee: = :smiley:
 
 
 <!--
