@@ -5,8 +5,8 @@
 -  Technophile  :computer:  <br/>
 -  Volunteer  :open_hands:  <br/>
 -  Photographer    :camera:  <br/>
-- :confused: + :coffee: = :smiley:
-
+- :confused: + :coffee: = :smiley:  <br/>
+-  Humans are beautiful creatures  :heart:
 
 <!--
 **Sanindu/Sanindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
