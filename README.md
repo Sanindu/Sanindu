@@ -2,9 +2,9 @@
 
 
 -  Undergraduate of University of Moratuwa  
--  Technophile  <br/>
--  Volunteer  <br/>
--  Photographer  <br/>
+-  Technophile  :computer:  <br/>
+-  Volunteer  :open_hands:  <br/>
+-  Photographer    :camera:  <br/>
 - :confused: + :coffee: = :smiley:
 
 
