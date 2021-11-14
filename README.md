@@ -1,12 +1,12 @@
 ### Hola 👋  I'm  Sanindu  :wink:
 
 
->>Undergraduate of University of Moratuwa  
->>Technophile  <br/>
->>Volunteer  <br/>
->>Photographer  <br/>
->>  :confused: + :coffee: = :smiley:
-Humans can be beautiful :heart:
+-  Undergraduate of University of Moratuwa  
+-  Technophile  <br/>
+-  Volunteer  <br/>
+-  Photographer  <br/>
+- :confused: + :coffee: = :smiley:
+
 
 <!--
 **Sanindu/Sanindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
