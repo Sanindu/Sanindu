@@ -1,4 +1,12 @@
-### Hi there 👋  I'm  Sanindu  :wink:
+### Hola 👋  I'm  Sanindu  :wink:
+
+
+--Undergraduate of University of Moratuwa
+--Technophile
+--Volunteer
+--Photographer
+:confused: + :coffee: = :smiley:
+
 
 <!--
 **Sanindu/Sanindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
