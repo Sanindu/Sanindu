@@ -2,9 +2,9 @@
 
 
 >>Undergraduate of University of Moratuwa  
->>Technophile
->>Volunteer
->>Photographer
+>>Technophile  <br/>
+>>Volunteer  <br/>
+>>Photographer  <br/>
 >>  :confused: + :coffee: = :smiley:
 
 
