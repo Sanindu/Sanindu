@@ -6,7 +6,7 @@
 >>Volunteer  <br/>
 >>Photographer  <br/>
 >>  :confused: + :coffee: = :smiley:
-
+Humans can be beautiful :heart:
 
 <!--
 **Sanindu/Sanindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
