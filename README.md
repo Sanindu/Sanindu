@@ -1,4 +1,4 @@
-### Hola 👋  I'm  Sanindu  :wink:
+### Hey 👋  I'm  Sanindu  :wink:
 
 
 -  Undergraduate of University of Moratuwa  
