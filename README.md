@@ -1,7 +1,7 @@
 ### Hey 👋  I'm  Sanindu  :wink:
 
 
--  Undergraduate of University of Moratuwa  
+-  Studied at University of Moratuwa  
 -  Technophile  :computer:  <br/>
 -  Volunteer  :open_hands:  <br/>
 -  Photographer    :camera:  <br/>
