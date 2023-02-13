@@ -1,7 +1,7 @@
 ### Hey 👋  I'm  Sanindu  :wink:
 
 
--  Studied at University of Moratuwa - Faculty of Information Technology
+-  Studied at University of Moratuwa - B.Sc. (Hons) in Information Technology
 -  Technophile  :computer:  <br/>
 -  Volunteer  :open_hands:  <br/>
 -  Photographer    :camera:  <br/>
