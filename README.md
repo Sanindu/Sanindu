@@ -1,12 +1,11 @@
 ### Hey 👋  I'm  Sanindu  :wink:
 
-
--  Studied at University of Moratuwa - B.Sc. (Hons) in Information Technology
+-  University of Northampton - MSc in Computing (Software Engineering)
+-  University of Moratuwa - B.Sc. (Hons) in Information Technology
 -  Technophile  :computer:  <br/>
 -  Volunteer  :open_hands:  <br/>
 -  Photographer    :camera:  <br/>
 - :confused: + :coffee: = :smiley:  <br/>
--  Humans are beautiful creatures  :heart:
 
 <!--
 **Sanindu/Sanindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
