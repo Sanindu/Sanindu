@@ -5,7 +5,6 @@
 -  Technophile  :computer:  <br/>
 -  Volunteer  :open_hands:  <br/>
 -  Photographer    :camera:  <br/>
-- :confused: + :coffee: = :smiley:  <br/>
 
 <!--
 **Sanindu/Sanindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
