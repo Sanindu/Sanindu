@@ -1,7 +1,7 @@
 ### Hey 👋  I'm  Sanindu  :wink:
 ### Portfolio - https://sanindu.co.uk/
 
-🔭 Passionate about research in computational mathematics, scientific algorithms, and high-performance computing. 
+🔭 Passionate about research in computational mathematics and scientific algorithms. 
 <br/> My background is in software engineering, data sciences, and their applications, exploring innovative solutions to complex problems. Always looking for opportunities to collaborate on projects that push the boundaries of technology and research.
 <!--
 **Sanindu/Sanindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
