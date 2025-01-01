@@ -1,12 +1,7 @@
 ### Hey 👋  I'm  Sanindu  :wink:
 ### Portfolio - https://sanindu.co.uk/
--  University of Northampton - MSc in Computing (Software Engineering)
--  University of Moratuwa - B.Sc. (Hons) in Information Technology
--  Technophile  :computer:  <br/>
--  Volunteer  :open_hands:  <br/>
--  Photographer    :camera:  <br/> <br/>
 
- 🔭 Passionate about the intersection of software engineering and artificial intelligence, thrive on crafting innovative solutions that leverage cutting-edge technologies. With a focus on building robust, scalable software systems and exploring the endless possibilities of AI.
+ 🔭 Passionate about research in computational mathematics, scientific algorithms, and high-performance computing. I specialise in research software engineering, data sciences, and their applications, exploring innovative solutions to complex problems. Always looking for opportunities to collaborate on projects that push the boundaries of technology and research.
 <!--
 **Sanindu/Sanindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
